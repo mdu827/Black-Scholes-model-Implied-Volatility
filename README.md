@@ -1,6 +1,6 @@
 # Black-Scholes-model-Implied-Volatility
 Black–Scholes option pricing model &amp; Implied Volatility calculation for call options 
-\Web application link: ####https://black-scholes-model-and-implied-volatility.streamlit.app/
+\Web application link: https://black-scholes-model-and-implied-volatility.streamlit.app/
 ## Overview
 
 This program calculates theoretical prices for Call and Put options using the Black-Scholes model. It also plots option prices against time to expiration, helping visualize time decay (theta) and other key pricing factors.
