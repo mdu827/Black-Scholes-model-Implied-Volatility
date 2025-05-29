@@ -13,11 +13,11 @@ Developing trading strategies based on mispricings.
 
 The program requires these inputs:
 
-S – Current underlying asset price.
-K – Strike price.
-T – Time to expiration (in years).
-r – Risk-free interest rate.
-σ (sigma) – Underlying asset volatility.
+S – Current underlying asset price.\
+K – Strike price.\
+T – Time to expiration (in years).\
+r – Risk-free interest rate.\
+σ (sigma) – Underlying asset volatility.\
 
 Compare the calculated price with the market price to identify:
 Overpriced options (market price > theoretical price) → Potential short opportunity.
